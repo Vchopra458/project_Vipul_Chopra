@@ -1,5 +1,8 @@
 # Plant Disease Detection using Custom CNN
 
+### Name-Vipul Chopra 
+**RollNo.-20221284**
+
 This project implements a custom Convolutional Neural Network (CNN) for **multi-class classification** of plant leaf diseases using the **New Plant Diseases Dataset (Augmented)**.  
 The model achieves good classification accuracy without using any transfer learning models like ResNet or VGG.
 
